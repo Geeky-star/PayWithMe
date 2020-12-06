@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168891712329",
+    "project_id": "masterpay-71607",
+    "storage_bucket": "masterpay-71607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168891712329:android:93ac51f913ee4f3d3d5098",
+        "android_client_info": {
+          "package_name": "com.example.mastering_payments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168891712329-jr8v6ehrhf4u6opdoqdo5gtjr3c9i93k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWd0GHgrIPQDW6HPEk9Lb6Hnbxo2v7Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168891712329-jr8v6ehrhf4u6opdoqdo5gtjr3c9i93k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
